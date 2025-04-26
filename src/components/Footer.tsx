@@ -62,8 +62,8 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <span className="mr-2">✉️</span>
-                <a href="mailto:contact@cornerstonebriques.com" className="text-gray-300 hover:text-white transition-colors">
-                  contact@cornerstonebriques.com
+                <a href="mailto:contact@cornerstonebrique.com" className="text-gray-300 hover:text-white transition-colors">
+                  contact@cornerstonebrique.com
                 </a>
               </li>
             </ul>
